@@ -1,0 +1,101 @@
+id,ticket,expected_category,split
+1,My order confirmation shows the wrong item quantity.,Order Issue,development
+2,I placed an order but it is not appearing in my order history.,Order Issue,development
+3,The order status has not changed since yesterday.,Order Issue,development
+4,I received an email confirming an order I did not place.,Order Issue,development
+5,My order details show an incorrect delivery address.,Order Issue,development
+6,I cannot find the invoice for my recent order.,Order Issue,development
+7,The website shows two orders for the same purchase.,Order Issue,development
+8,My order is marked as processing for several days.,Order Issue,development
+9,The item I ordered is missing from the order details.,Order Issue,eval
+10,I need help checking the details of my recent order.,Order Issue,eval
+11,My parcel has not arrived by the expected delivery date.,Delivery Issue,development
+12,The tracking page says out for delivery but nothing arrived.,Delivery Issue,development
+13,"The courier says delivery was attempted, but I was home.",Delivery Issue,development
+14,My package is stuck at the sorting facility.,Delivery Issue,development
+15,The tracking number is not showing any delivery updates.,Delivery Issue,development
+16,My parcel was delivered to the wrong address.,Delivery Issue,development
+17,The delivery person could not find my location.,Delivery Issue,development
+18,My order is delayed and I want to know its delivery status.,Delivery Issue,development
+19,The package has not arrived even though tracking says shipped.,Delivery Issue,eval
+20,I received a message that my shipment is delayed.,Delivery Issue,eval
+21,My card was charged but the order was not placed.,Payment Issue,development
+22,The payment page keeps declining my valid card.,Payment Issue,development
+23,I was charged twice for one order.,Payment Issue,development
+24,My online payment failed but money was deducted.,Payment Issue,development
+25,I cannot complete checkout using my debit card.,Payment Issue,development
+26,The payment status is still pending after money was deducted.,Payment Issue,development
+27,My bank shows a charge that I do not recognize for this order.,Payment Issue,development
+28,The wallet payment option is not working.,Payment Issue,development
+29,I get an error whenever I try to pay.,Payment Issue,eval
+30,The payment amount shown at checkout is incorrect.,Payment Issue,eval
+31,I returned my item and want my money refunded.,Refund Request,development
+32,My refund has not reached my bank account yet.,Refund Request,development
+33,Please tell me when I will receive my refund.,Refund Request,development
+34,I was promised a refund but have not received it.,Refund Request,development
+35,I want to request a refund for my cancelled order.,Refund Request,development
+36,The refund status has been pending for a week.,Refund Request,development
+37,My returned product was received but no refund was issued.,Refund Request,development
+38,Please refund the amount charged for my order.,Refund Request,development
+39,I received only part of the refund amount.,Refund Request,eval
+40,I need an update about the refund for my purchase.,Refund Request,eval
+41,I want to return the shoes because they do not fit.,Return Request,development
+42,How can I start a return for this product?,Return Request,development
+43,I would like to send this item back.,Return Request,development
+44,Please arrange a return for my recent purchase.,Return Request,development
+45,The product is not suitable and I want to return it.,Return Request,development
+46,Where can I find the return instructions?,Return Request,development
+47,I need a return label for my order.,Return Request,development
+48,Can I return an unopened item?,Return Request,development
+49,I want to return the jacket I purchased last week.,Return Request,eval
+50,Please explain the return process for this order.,Return Request,eval
+51,The phone arrived with a cracked screen.,Product Damage,development
+52,My parcel contains a broken glass item.,Product Damage,development
+53,The product is damaged and cannot be used.,Product Damage,development
+54,I received a laptop with a damaged corner.,Product Damage,development
+55,The package was crushed and the item inside is broken.,Product Damage,development
+56,The appliance arrived with a broken part.,Product Damage,development
+57,My product has scratches that were not shown in the listing.,Product Damage,development
+58,The headphones arrived with a damaged ear cup.,Product Damage,development
+59,The item was damaged during shipping.,Product Damage,eval
+60,I opened the box and found the product broken.,Product Damage,eval
+61,I ordered a blue shirt but received a red one.,Wrong Product,development
+62,The package contains a different model than I purchased.,Wrong Product,development
+63,I received the wrong size instead of the size I ordered.,Wrong Product,development
+64,The delivered item does not match my order.,Wrong Product,development
+65,I ordered a phone case but got a screen protector.,Wrong Product,development
+66,The color of the product delivered is different from my selection.,Wrong Product,development
+67,My parcel contains someone else's item.,Wrong Product,development
+68,I received a different brand from the one I ordered.,Wrong Product,development
+69,The product code on the package does not match my order.,Wrong Product,eval
+70,You sent the wrong product; please help.,Wrong Product,eval
+71,I cannot log in to my customer account.,Account Issue,development
+72,My password reset link is not working.,Account Issue,development
+73,My account is locked after several login attempts.,Account Issue,development
+74,I cannot update the email address on my profile.,Account Issue,development
+75,The website does not accept my login details.,Account Issue,development
+76,I am not receiving the account verification code.,Account Issue,development
+77,My profile information is not saving.,Account Issue,development
+78,I want help changing my account password.,Account Issue,development
+79,I cannot access my saved addresses.,Account Issue,eval
+80,My account page keeps showing an error.,Account Issue,eval
+81,I want to cancel my order before it ships.,Cancellation,development
+82,Please cancel the order I placed this morning.,Cancellation,development
+83,I no longer need this purchase and want to cancel it.,Cancellation,development
+84,Can you stop my order from being processed?,Cancellation,development
+85,I selected the wrong item and want to cancel the order.,Cancellation,development
+86,Please cancel order number 45821.,Cancellation,development
+87,I want to cancel my pending purchase.,Cancellation,development
+88,How do I cancel an order that has not shipped?,Cancellation,development
+89,I placed the order by mistake; please cancel it.,Cancellation,eval
+90,Please confirm whether my order cancellation is complete.,Cancellation,eval
+91,Does this laptop come with a one-year warranty?,Product Inquiry,development
+92,What are the dimensions of this product?,Product Inquiry,development
+93,Is this phone available in black?,Product Inquiry,development
+94,Can you tell me the material used to make this bag?,Product Inquiry,development
+95,What is the battery capacity of this model?,Product Inquiry,development
+96,Is this product compatible with my device?,Product Inquiry,development
+97,Do you have this item in a larger size?,Product Inquiry,development
+98,Can you provide more details about the product features?,Product Inquiry,development
+99,Is the listed price inclusive of taxes?,Product Inquiry,eval
+100,What accessories are included with this product?,Product Inquiry,eval
